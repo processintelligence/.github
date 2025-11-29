@@ -1,12 +1,20 @@
-## Hi there 👋
+## Process Intelligence at DTU
 
-<!--
+This organization contains repositories connected with the Process Intelligence research done at the [Software Systems Engineering section](https://www.compute.dtu.dk/sections/sofsys) of [DTU Compute](https://www.compute.dtu.dk/).
 
-**Here are some ideas to get you started:**
+### Repositories
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* [PetriNet-IO](https://github.com/processintelligence/petrinet-io) - Petri Nets web editor - [demo](https://processintelligence.github.io/petrinet-io/)
+* [Beepath](https://github.com/processintelligence/beepath) - Process modelling via natural language - [demo](https://processintelligence.github.io/beepath/)
+* [I-PALIA](https://github.com/processintelligence/palia) and corresponding [ProM plugin](https://github.com/processintelligence/PaliaProM) - Control-flow discovery algorithm, described in http://dx.doi.org/10.1007/s10844-025-00997-7
+
+
+### Repositories part of PhD projects
+
+* Project [Online conformance checking to support human behaviour study](https://orbit.dtu.dk/en/projects/online-conformance-checking-to-support-human-behaviour-study/)
+  * [EnrichedCC](https://github.com/processintelligence/EnrichedCC) - enriched conformance checking for an hybrid process model capable of representing human behavior
+  * [VIOLA](https://github.com/processintelligence/VIOLA) - A streaming conformance checking approach
+  * [CvAMoS](https://github.com/processintelligence/CvAMoS) - Trace-based event abstraction
+  * [Linac](https://github.com/processintelligence/linac) - Simulation of agent interactions with IoT devices - [demo](http://linac.compute.dtu.dk/)
+  * [Web demo of EnrichedCC](https://github.com/processintelligence/webapp-enrichedcc)
+  * [Web demo of smart apartment](https://github.com/processintelligence/webapp-interactive-simulation-floormap) - [demo](https://processintelligence.github.io/webapp-interactive-simulation-floormap/)
