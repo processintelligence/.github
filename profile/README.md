@@ -1,6 +1,6 @@
-## Process Intelligence at DTU
+## Process Intelligence
 
-This organization contains repositories connected with the Process Intelligence research done at the [Software Systems Engineering section](https://www.compute.dtu.dk/sections/sofsys) of [DTU Compute](https://www.compute.dtu.dk/).
+This organization contains repositories connected with the Process Intelligence research led by [Andrea Burattin](https://andrea.burattin.net/) at [DTU Compute](https://www.compute.dtu.dk/).
 
 ### Repositories
 
