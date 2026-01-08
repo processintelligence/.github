@@ -1,6 +1,6 @@
-## Process Intelligence
+## Process Intelligence and Process Mining
 
-This organization contains repositories connected with the Process Intelligence research led by [Andrea Burattin](https://andrea.burattin.net/) at [DTU Compute](https://www.compute.dtu.dk/).
+This organization contains repositories connected with the Process Intelligence and Process Mining research [co-]led by [Andrea Burattin](https://andrea.burattin.net/) at [DTU Compute](https://www.compute.dtu.dk/).
 
 ### Repositories
 
@@ -15,7 +15,7 @@ This organization contains repositories connected with the Process Intelligence 
 
 ### Repositories part of PhD projects
 
-* Project [Online conformance checking to support human behaviour study](https://orbit.dtu.dk/en/projects/online-conformance-checking-to-support-human-behaviour-study/)
+* Project [Online conformance checking to support human behaviour study](https://orbit.dtu.dk/en/projects/online-conformance-checking-to-support-human-behaviour-study/) by Gemma Di Federico
   * [EnrichedCC](https://github.com/processintelligence/EnrichedCC) - enriched conformance checking for an hybrid process model capable of representing human behavior
   * [VIOLA](https://github.com/processintelligence/VIOLA) - A streaming conformance checking approach
   * [CvAMoS](https://github.com/processintelligence/CvAMoS) - Trace-based event abstraction
