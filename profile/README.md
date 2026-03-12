@@ -6,7 +6,7 @@ This organization contains repositories connected with the Process Intelligence 
 
 * [PetriNet-IO](https://github.com/processintelligence/petrinet-io) - Petri nets web editor - [demo](https://processintelligence.github.io/petrinet-io/)
 * [Beepath](https://github.com/processintelligence/beepath) - Process modelling via natural language - [demo](https://processintelligence.github.io/beepath/)
-* [I-PALIA](https://github.com/processintelligence/palia) and corresponding [ProM plugin](https://github.com/processintelligence/PaliaProM) - Control-flow discovery algorithm, described in http://dx.doi.org/10.1007/s10844-025-00997-7
+* [I-PALIA](https://github.com/processintelligence/palia) and corresponding [ProM plugin](https://github.com/processintelligence/PaliaProM) - Control-flow discovery algorithm
 * [PN2CCS](https://github.com/processintelligence/pn2ccs) - Petri nets to CCS - [demo](https://processintelligence.github.io/pn2ccs/)
 
 ### Other projects developed
